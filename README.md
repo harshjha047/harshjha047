@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🎓 Bachelor of Computer Applications Student at IITM Janakpuri, India<br>- 💡 Passionate about building interactive web experiences<br>- 🎨 Strong in frontend development with an eye for modern UI/UX<br>- 🔍 Exploring backend technologies and full-stack development<br>- 🏆 Hackathon finalist | 4th place out of 40+ teams<br>- 🎭 Member of ** Playbeat Cultural Society** | Graphic Designer
+- 🎓 Bachelor of Computer Applications Student at IITM Janakpuri, India<br>
+- 💡 Passionate about building interactive web experiences<br>
+- 🎨 Strong in frontend development with an eye for modern UI/UX<br>
+- 🔍 Exploring backend technologies and full-stack development<br>
+- 🏆 Hackathon finalist | 4th place out of 40+ teams<br>
+- 🎭 Member of ** Playbeat Cultural Society** | Graphic Designer
 
 
 ## 🌐 Socials:
