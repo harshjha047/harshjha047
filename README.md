@@ -4,7 +4,7 @@
 - 🎨 Strong in frontend development with an eye for modern UI/UX<br>
 - 🔍 Exploring backend technologies and full-stack development<br>
 - 🏆 Hackathon finalist<br>
-- 🎭 Member of Playbeat Cultural Society | Tech Head
+- 🎭 Tech Head of Playbeat Cultural Society
 
 
 ## 🌐 Socials:
