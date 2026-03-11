@@ -1,12 +1,12 @@
 # 💫 About Me:
-Current Work: Developing the official website for Creative Circuit.<br>Core Stack: Next.js, React, Node.js, MongoDB, Tailwind CSS.<br>Tools: Git/GitHub, Vercel, Docker.<br>Goals: Building high-performance digital products and achieving peak physical fitness.
+Core Stack: Next.js, Express.js, MongoDB, Tailwind CSS.<br>
+Tools: Git/GitHub, Vercel, Docker.<br>
+Goals: Building high-performance digital products and achieving peak physical fitness.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7SgQGprU) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_jha0_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-jha0047) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@quiteraofficial) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-jha0047)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshjha.00004@gmail.com) 
 
 # 💻 Tech Stack:
